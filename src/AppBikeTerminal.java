@@ -55,7 +55,5 @@ public class AppBikeTerminal {
         scanner.close();
 
         estudante.visualizarHistorico();
-        estacaoPrincipal.listStatus();
-        estacaoSecundaria.listStatus();
     }
 }
