@@ -1,11 +1,11 @@
 package classes;
 
 public class Estacao {
-    String nome;
-    String endereco;
-    int maxVagas;
-    int listBikeId [];
-    int vagasOcupadas;
+    public String nome;
+    public String endereco;
+    public int maxVagas;
+    public int listBikeId [];
+    public int vagasOcupadas;
 
     boolean hasSpot(){
         return true;
